@@ -1,4 +1,4 @@
-var prompt = require('sync-prompt').prompt;
+var prompt = require('syncprompt');
 var color = require('cli-color');
 
 var green = color.green;
